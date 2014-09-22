@@ -1,4 +1,5 @@
 #hello git!!
 
 This is repository.
-add row.
+ADD new row.
+It is fine today.
